@@ -1,0 +1,360 @@
+﻿1
+00:00:01,020 --> 00:00:08,420
+Speaker 0: We're a little ways into 2024 now, and the pace of AI certainly isn't slowing down, but where will it be by the end of the year?
+
+2
+00:00:08,760 --> 00:00:13,481
+Speaker 0: Well, we've put together nine trends that we expect to merge throughout the year.
+
+3
+00:00:13,561 --> 00:00:16,701
+Speaker 0: Some of them are broad and high level, some are a bit more technical.
+
+4
+00:00:17,182 --> 00:00:17,962
+Speaker 0: So let's get into them.
+
+5
+00:00:19,002 --> 00:00:23,363
+Speaker 0: Oh, and if you've stumbled across this video in 2025, let us know how we did.
+
+6
+00:00:24,298 --> 00:00:25,419
+Speaker 0: Okay, trend number one.
+
+7
+00:00:25,799 --> 00:00:31,703
+Speaker 0: This is the year of the reality check.
+
+8
+00:00:32,563 --> 00:00:36,486
+Speaker 0: It is the year of more realistic expectations.
+
+9
+00:00:37,166 --> 00:00:42,510
+Speaker 0: When generative AI first hit mass awareness, it was met with breathless news coverage.
+
+10
+00:00:42,730 --> 00:00:45,452
+Speaker 0: Everyone was messing around with ChatGPT, DALI and the like.
+
+11
+00:00:46,272 --> 00:00:52,275
+Speaker 0: And now the dust has settled, we're starting to develop a more refined understanding of what AI-powered solutions can do.
+
+12
+00:00:52,816 --> 00:01:00,380
+Speaker 0: Now, many generative AI tools are now being implemented as integrated elements rather than standalone chatbots and the like.
+
+13
+00:01:00,900 --> 00:01:06,263
+Speaker 0: They enhance and complement existing tools rather than revolutionize or replace them.
+
+14
+00:01:06,383 --> 00:01:11,846
+Speaker 0: So think ho-pilot features in Microsoft Office or generative fill in Adobe Photoshop.
+
+15
+00:01:12,506 --> 00:01:21,615
+Speaker 0: And embedding AI into everyday workflows like these helps us to better understand what generative AI can and cannot do in its current form.
+
+16
+00:01:22,516 --> 00:01:31,884
+Speaker 0: And one area generative AI is really extending its capabilities, that is in multi-modal AI.
+
+17
+00:01:34,167 --> 00:01:40,013
+Speaker 0: Now, AI multimodal models can take multiple layers of data as input.
+
+18
+00:01:40,153 --> 00:01:51,646
+Speaker 0: And we already have interdisciplinary models today like OpenAI's GPT-4V and Google Gemini that can move freely between natural language processing and computer vision tasks.
+
+19
+00:01:51,886 --> 00:02:05,180
+Speaker 0: So users can, for example, like ask about an image and then receive a natural language answer or they could ask out loud for instructions to let's say repair something and receive visual aids alongside step-by-step text instructions.
+
+20
+00:02:06,241 --> 00:02:16,412
+Speaker 0: New models are also bringing video into the fold and where this really gets interesting is in how multimodal AI allows for models to process more diverse data inputs.
+
+21
+00:02:16,932 --> 00:02:24,698
+Speaker 0: And that expands the information available for training and inference, for example, by ingesting data captured by video cameras for holistic learning.
+
+22
+00:02:24,758 --> 00:02:27,521
+Speaker 0: So there's lots more to come this year.
+
+23
+00:02:29,122 --> 00:02:34,086
+Speaker 0: Now, trend three, that relates to smaller models.
+
+24
+00:02:36,297 --> 00:02:41,261
+Speaker 0: Now, massive models, they jumpstarted the generative AI age, but they're not without drawbacks.
+
+25
+00:02:41,581 --> 00:02:50,728
+Speaker 0: According to one estimate from the University of Washington, training a single GPT-3 size model requires the yearly electricity consumption of over a thousand households.
+
+26
+00:02:51,628 --> 00:02:53,910
+Speaker 0: And you might be thinking, sure, that's training.
+
+27
+00:02:53,930 --> 00:02:55,111
+Speaker 0: We know that's expensive.
+
+28
+00:02:55,332 --> 00:02:56,413
+Speaker 0: But what about inference?
+
+29
+00:02:57,273 --> 00:03:05,801
+Speaker 0: Well, a standard day of chat GPT queries rivals the daily energy consumption of something like 33,000 households.
+
+30
+00:03:06,502 --> 00:03:09,945
+Speaker 0: Smaller models, meanwhile, are far less resource intensive.
+
+31
+00:03:10,365 --> 00:03:16,411
+Speaker 0: Much of the ongoing innovation in LLMs has focused on yielding greater output from fewer parameters.
+
+32
+00:03:16,891 --> 00:03:24,338
+Speaker 0: Now GPT-4, that is rumored to have around 1.76 trillion parameters.
+
+33
+00:03:24,919 --> 00:03:31,805
+Speaker 0: But many open source models have seen success with model sizes in the 3 to 70 billion parameter range.
+
+34
+00:03:31,865 --> 00:03:33,727
+Speaker 0: So billions instead of trillions.
+
+35
+00:03:34,668 --> 00:03:38,330
+Speaker 0: Now, in December last year, Mistral released Mixtral.
+
+36
+00:03:38,650 --> 00:03:45,414
+Speaker 0: That is a mixture of experts, or an MOE model, integrating eight neural networks, each with seven billion parameters.
+
+37
+00:03:45,694 --> 00:04:02,724
+Speaker 0: And Mistral claims that Mixtral not only outperforms the 70 billion parameter variant of LLAMA2 on most benchmarks at six times faster influence speeds, no less, but that it even matches or outperforms OpenAI's far larger GPT 3.5 on most standard benchmarks.
+
+38
+00:04:03,624 --> 00:04:10,473
+Speaker 0: Smaller parameter models can be run at lower cost and run locally on many devices like personal laptops.
+
+39
+00:04:11,094 --> 00:04:19,885
+Speaker 0: Which conversely brings us to trend number four, which is GPU and cloud costs.
+
+40
+00:04:21,240 --> 00:04:28,301
+Speaker 0: the trend towards smaller models is being driven as much by necessity as it is by entrepreneurial vigor.
+
+41
+00:04:28,882 --> 00:04:33,222
+Speaker 0: The larger the model, the higher the requirement on GPUs for training and inference.
+
+42
+00:04:33,803 --> 00:04:44,685
+Speaker 0: Relatively few AI adopters maintain their own infrastructure, so that puts upward pressure on cloud costs as providers update and optimize their own infrastructure to meet Gen AI demand.
+
+43
+00:04:45,365 --> 00:04:50,471
+Speaker 0: all while everybody is scrambling to obtain the necessary GPUs to power the infrastructure.
+
+44
+00:04:51,192 --> 00:04:55,677
+Speaker 0: If only these models were a bit more optimized, they'd need less compute.
+
+45
+00:04:55,697 --> 00:05:00,061
+Speaker 0: Haha, yes, that is trend number five.
+
+46
+00:05:00,962 --> 00:05:03,745
+Speaker 0: That is model optimization.
+
+47
+00:05:04,824 --> 00:05:12,869
+Speaker 0: Now this past year, we've already seen adoption of techniques for training, tweaking, and fine-tuning pre-trained models like quantization.
+
+48
+00:05:13,249 --> 00:05:18,653
+Speaker 0: You know how you can reduce the file size of an audio file or a video file just by lowering its bit rate?
+
+49
+00:05:19,273 --> 00:05:23,196
+Speaker 0: Well, quantization lowers the precision used to represent model data points.
+
+50
+00:05:23,276 --> 00:05:29,720
+Speaker 0: For example, from 16-bit floating point to 8-bit integer to reduce memory usage and speed up inference.
+
+51
+00:05:30,871 --> 00:05:46,035
+Speaker 0: Also, rather than directing directly fine tuning billions of model parameters, something called LoRa or low rank adaptation entails freezing pre-trained model weights and injecting trainable layers in each transformer block.
+
+52
+00:05:46,435 --> 00:05:54,698
+Speaker 0: And LoRa reduces the number of parameters that need to be updated, which in turn dramatically speeds up fine tuning and reduces the memory needed to store model updates.
+
+53
+00:05:54,918 --> 00:05:58,879
+Speaker 0: So expect to see more model optimization techniques emerge this year.
+
+54
+00:06:00,521 --> 00:06:02,825
+Speaker 0: Okay, let's knock out a few more.
+
+55
+00:06:03,546 --> 00:06:08,574
+Speaker 0: And the next one is all about custom local models.
+
+56
+00:06:10,965 --> 00:06:16,447
+Speaker 0: Open source models afford the opportunity to develop powerful custom AI models.
+
+57
+00:06:16,487 --> 00:06:22,289
+Speaker 0: That means trained on an organization's proprietary data and fine tuned for their specific needs.
+
+58
+00:06:22,930 --> 00:06:33,734
+Speaker 0: Keeping AI training and inference local avoids the risk of proprietary data or sensitive personal information being used to train closed source models or otherwise pass through to the hands of third parties.
+
+59
+00:06:34,454 --> 00:06:45,949
+Speaker 0: And then using things like RAG or retrieval augmented generation to access relevant information, rather than storing all of that information directly within the LLM itself, that helps to reduce model size.
+
+60
+00:06:47,270 --> 00:06:52,297
+Speaker 0: Trend number seven, that is virtual agents.
+
+61
+00:06:53,820 --> 00:07:06,171
+Speaker 0: Now that goes beyond the straightforward customer experience chatbot because virtual agents relate to task automation where agents will get stuff done for you.
+
+62
+00:07:06,872 --> 00:07:12,056
+Speaker 0: They'll make reservations or they'll complete checklist tasks or they'll connect to other services.
+
+63
+00:07:12,376 --> 00:07:13,818
+Speaker 0: So lots more to come there.
+
+64
+00:07:14,939 --> 00:07:19,683
+Speaker 0: Trend number eight, that is all about regulation.
+
+65
+00:07:20,646 --> 00:07:26,894
+Speaker 0: Now, in December of last year, the European Union reached provisional agreement on the Artificial Intelligence Act.
+
+66
+00:07:27,875 --> 00:07:34,664
+Speaker 0: Also, the role of copyrighted material in the training of AI models used for content generation remains a hotly contested issue.
+
+67
+00:07:35,144 --> 00:07:38,549
+Speaker 0: So expect much more to come in the area of regulation.
+
+68
+00:07:39,588 --> 00:07:49,256
+Speaker 0: And finally, we're at trend number nine, which is the continuance of something called shadow AI.
+
+69
+00:07:50,357 --> 00:07:50,877
+Speaker 0: What's that?
+
+70
+00:07:51,318 --> 00:07:57,083
+Speaker 0: Well, it's the unofficial personal use of AI in the workplace by employees.
+
+71
+00:07:57,583 --> 00:08:02,510
+Speaker 0: It's about using gen AI without going through IT for approval or oversight.
+
+72
+00:08:02,710 --> 00:08:08,077
+Speaker 0: Now, in one study from Ernest and Young, 90% of respondents said they used AI at work.
+
+73
+00:08:08,417 --> 00:08:19,811
+Speaker 0: But without corporate AI policies in place, and importantly, policies that are observed, that this can lead to issues regarding security, privacy, compliance, that sort of thing.
+
+74
+00:08:20,292 --> 00:08:28,322
+Speaker 0: So for example, an employee might unknowingly feed trade secrets to a public facing AI model that continually trains the model on user input.
+
+75
+00:08:29,203 --> 00:08:37,230
+Speaker 0: Or they might use copyright protected material to train a proprietary model And then that could expose the company to legal action.
+
+76
+00:08:37,991 --> 00:08:43,754
+Speaker 0: The dangers of generative AI rise kind of almost in a linear line with its capabilities.
+
+77
+00:08:43,953 --> 00:08:45,014
+Speaker 0: And that line's going up.
+
+78
+00:08:46,135 --> 00:08:49,036
+Speaker 0: With great power comes great responsibility.
+
+79
+00:08:49,657 --> 00:08:50,617
+Speaker 0: So there you have it.
+
+80
+00:08:51,117 --> 00:08:53,719
+Speaker 0: Nine important AI trends for this year.
+
+81
+00:08:55,630 --> 00:08:56,491
+Speaker 0: But why nine?
+
+82
+00:08:56,511 --> 00:08:58,873
+Speaker 0: Don't these things almost always come in tens?
+
+83
+00:08:59,614 --> 00:09:00,774
+Speaker 0: Well, yes, yes, they do.
+
+84
+00:09:01,055 --> 00:09:03,237
+Speaker 0: And that's your job.
+
+85
+00:09:03,917 --> 00:09:09,442
+Speaker 0: What is the one AI trend for 2024 that we haven't covered here?
+
+86
+00:09:09,882 --> 00:09:12,164
+Speaker 0: The missing 10th trend.
+
+87
+00:09:13,065 --> 00:09:14,166
+Speaker 0: Let us know in the comments.
+
+88
+00:09:15,787 --> 00:09:18,249
+Speaker 0: If you have any questions, please drop us a line below.
+
+89
+00:09:18,469 --> 00:09:22,933
+Speaker 0: And if you want to see more videos like this in the future, please like and subscribe.
+
+90
+00:09:23,573 --> 00:09:24,254
+Speaker 0: Thanks for watching.
+

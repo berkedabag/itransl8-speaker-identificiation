@@ -1,0 +1,6 @@
+wget
+nemo_toolkit[asr]==1.21.0
+transformers>=4.26.1
+git+https://github.com/m-bain/whisperX.git
+git+https://github.com/facebookresearch/demucs#egg=demucs
+deepmultilingualpunctuation
